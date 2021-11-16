@@ -1,6 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="79511797-b10c-4907-9a5a-ec9e8d01329d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.env" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/src/constant.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/src/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/src/lru-cache.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/src/request.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.tsx" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="210Ld2IVFNUtEY88Xywd7V1V0Li" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -9,8 +28,68 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$USER_HOME$/npm-global/bin/create-react-app" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_package_manager_path" value="yarn" />
     <property name="prettierjs.PrettierConfiguration.Package" value="$USER_HOME$/npm_global/lib/node_modules/prettier" />
+    <property name="ts.external.directory.path" value="$PROJECT_DIR$/node_modules/typescript/lib" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="npm.npm start">
+    <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:3000">
+      <method v="2" />
+    </configuration>
+    <configuration name="npm start" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="79511797-b10c-4907-9a5a-ec9e8d01329d" name="Default Changelist" comment="" />
+      <created>1637073141191</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1637073141191</updated>
+      <workItem from="1637073142682" duration="3884000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="636" y="359" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1637073362582">
+      <screen x="53" y="25" width="1739" height="1095" />
+    </state>
+    <state x="636" y="359" key="#com.intellij.fileTypes.FileTypeChooser/53.25.1739.1095@53.25.1739.1095" timestamp="1637073362582" />
+    <state x="700" y="118" key="RollbackChangesDialog" timestamp="1637074747118">
+      <screen x="53" y="25" width="1739" height="1095" />
+    </state>
+    <state x="700" y="118" key="RollbackChangesDialog/53.25.1739.1095@53.25.1739.1095" timestamp="1637074747118" />
+    <state x="156" y="125" width="1536" height="895" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1637074204317">
+      <screen x="53" y="25" width="1739" height="1095" />
+    </state>
+    <state x="156" y="125" width="1536" height="895" key="com.intellij.history.integration.ui.views.FileHistoryDialog/53.25.1739.1095@53.25.1739.1095" timestamp="1637074204317" />
+    <state x="505" y="88" width="838" height="1032" key="search.everywhere.popup" timestamp="1637076194247">
+      <screen x="53" y="25" width="1739" height="1095" />
+    </state>
+    <state x="505" y="88" width="838" height="1032" key="search.everywhere.popup/53.25.1739.1095@53.25.1739.1095" timestamp="1637076194247" />
   </component>
 </project>
